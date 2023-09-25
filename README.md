@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Back-end development**
 
-- 💬 Improving my**HTML, CSS, JavaScript, Python, Bootstrap, PHP, Laravel, C#(.Net Core) & SQL**
+- 💬 Improving my **HTML, CSS, JavaScript, Python, Bootstrap, PHP, Laravel, C#(.Net Core) & SQL**
 - ⚡ Free advice **Being good to others doesn't cost money but don't expect something good form me**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
