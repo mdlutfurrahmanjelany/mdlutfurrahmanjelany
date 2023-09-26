@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Back-end development**
 
 - 💬 Improving my **HTML, CSS, JavaScript, Python, Bootstrap, PHP, Laravel, C#(.Net Core) & SQL**
-- ⚡ Free advice **Being good to others doesn't cost money(but don't expect something good form me)**
+- ⚡ Free advice **Being good to others doesn't cost money (but don't expect something good form me)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mdlutfurrahmanjelany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdashrafuddintanvir" height="30" width="40" /></a>
